@@ -15,25 +15,25 @@ const items = [{
     "link": "https://portfolio.chikalin.ru"
 },
 {
-    "title": "Ecorche: Human Head Anatomy"
+    "title": "Ecorche: Human Head Anatomy",
     "subtitle": "ecorche.app",
     "image": ecorche,
     "link": "https://ecorche.app"
 },
 {
-    "title": "Just Play"
+    "title": "Just Play",
     "subtitle": "An animated short",
     "image": justplay,
     "link": "https://www.youtube.com/watch?v=pKdqm6nddFo"
 },
 {
-    "title": "iOS Apps"
+    "title": "iOS Apps",
     "subtitle": "All my iOS Apps",
     "image": appstore,
     "link": "https://apps.apple.com/ru/developer/kirill-chikalin/id1525333206"
 },
 {
-    "title": "Android Apps"
+    "title": "Android Apps",
     "subtitle": "All my Android Apps",
     "image": playstore,
     "link": "https://play.google.com/store/apps/dev?id=9162788309736348460"
