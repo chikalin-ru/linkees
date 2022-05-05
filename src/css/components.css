@@ -1,13 +1,19 @@
 body[data-theme='dark'] {
-  --font-color: rgb(240, 240, 240);
-  --background-color: rgb(10, 10, 10);
-  --card-hover-bg: rgba(255, 255, 255, 0.12);
+  --font-color: rgb(245, 234, 234);
+  --font-color-hover: rgb(10, 10, 10);
+  --background-color: rgb(77, 70, 70);
+  --card-hover-bg: rgba(127, 205, 145);
+  --font-color-p: rgba(245, 234, 234, 0.5);
+  --font-color-p-hover: rgba(10, 10, 10, 0.8);
 }
 
 body[data-theme='light'] {
-  --font-color: rgb(10, 10, 10);
-  --background-color: rgb(240, 240, 240);
-  --card-hover-bg: rgba(0, 0, 0, 0.12);
+  --font-color: rgb(77, 70, 70);
+  --font-color-hover: rgb(10, 10, 10);
+  --background-color: rgb(245, 234, 234);
+  --card-hover-bg: rgba(127, 205, 145);
+  --font-color-p: rgb(77, 70, 70);
+  --font-color-p-hover: rgba(10, 10, 10, 0.8);
 }
 
 body {
@@ -51,10 +57,12 @@ img {
   margin-bottom: 5%;
 }
 
-a,
-a:hover {
+a {
   text-decoration: none;
   color: var(--font-color);
+}
+a:hover {
+  color: var(--card-hover-bg);
 }
 
 .Card {
@@ -85,8 +93,16 @@ h2 {
 p {
   font-size: 100%;
   font-weight: 400;
-  color: rgb(70, 70, 70);
+  color: var(--font-color-p);
   margin-bottom: 5px;
+}
+
+.Card:hover p {
+  color: var(--font-color-p-hover);
+}
+
+.Card:hover h2 {
+  color: var(--font-color-hover);
 }
 
 .cover {
