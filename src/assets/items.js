@@ -7,11 +7,12 @@ import filmfreeway from '../assets/filmfreeway.png'
 import imdb from '../assets/imdb.png'
 import justplay from '../assets/justplay.jpg'
 import ecorche from '../assets/ecorche.webp'
+import comingsoon from '../assets/comingsoon.png'
 
 const items = [{
     "title": "Portfolio",
     "subtitle": "Look at my work!",
-    "image": website,
+    "image": comingsoon,
     "link": "https://portfolio.chikalin.ru"
 },
 {
