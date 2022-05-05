@@ -16,13 +16,13 @@ const items = [{
 },
 {
     "title": "Ecorche: Portrait Anatomy",
-    "subtitle": "ecorche.app",
+    "subtitle": "ecorche.app | 2020",
     "image": ecorche,
     "link": "https://ecorche.app"
 },
 {
     "title": "Just Play",
-    "subtitle": "An animated short",
+    "subtitle": "An animated short | 2020",
     "image": justplay,
     "link": "https://www.youtube.com/watch?v=pKdqm6nddFo"
 },
@@ -40,19 +40,19 @@ const items = [{
 },
 {
     "title": "YouTube",
-    "subtitle": "Kirill Chikalin | Official channel",
+    "subtitle": "Kirill Chikalin | Official channel | 2009-2021",
     "image": youtube,
     "link": "https://www.youtube.com/c/KirillChikalin"
 },
 {
     "title": "FilmFreeway",
-    "subtitle": "Kirill Chikalin | independent filmmaker",
+    "subtitle": "Kirill Chikalin | independent filmmaker | 2009-2021",
     "image": filmfreeway,
     "link": "https://filmfreeway.com/KirillChikalin"
 },
 {
     "title": "IMDB",
-    "subtitle": "Kirill Chikalin | director, animator",
+    "subtitle": "Kirill Chikalin | director, animator | 2020",
     "image": imdb,
     "link": "https://www.imdb.com/name/nm11577759"
 },
