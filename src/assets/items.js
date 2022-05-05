@@ -15,7 +15,7 @@ const items = [{
     "link": "https://portfolio.chikalin.ru"
 },
 {
-    "title": "Ecorche: Human Head Anatomy",
+    "title": "Ecorche: Portrait Anatomy",
     "subtitle": "ecorche.app",
     "image": ecorche,
     "link": "https://ecorche.app"
