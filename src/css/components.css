@@ -1,3 +1,11 @@
+:root[data-theme='dark'] {
+  --background-color: rgb(55, 51, 49);
+}
+
+:root[data-theme='light'] {
+  --background-color: rgb(245, 234, 234);
+}
+
 body[data-theme='dark'] {
   --font-color: rgb(245, 234, 234);
   --font-color-hover: rgb(10, 10, 10);
