@@ -41,13 +41,13 @@ const items = [{
 },
 {
     "title": "YouTube",
-    "subtitle": "Kirill Chikalin | Official channel | 2009-2021",
+    "subtitle": "Kirill Chikalin | Official channel | 2009‑2021",
     "image": youtube,
     "link": "https://www.youtube.com/c/KirillChikalin"
 },
 {
     "title": "FilmFreeway",
-    "subtitle": "Kirill Chikalin | independent filmmaker | 2009-2021",
+    "subtitle": "Kirill Chikalin | independent filmmaker | 2009‑2021",
     "image": filmfreeway,
     "link": "https://filmfreeway.com/KirillChikalin"
 },
