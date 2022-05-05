@@ -17,7 +17,7 @@ const items = [{
 },
 {
     "title": "Ecorche: Portrait Anatomy",
-    "subtitle": "ecorche.app | 2020",
+    "subtitle": "ecorche.app | 2020-2021",
     "image": ecorche,
     "link": "https://ecorche.app"
 },
