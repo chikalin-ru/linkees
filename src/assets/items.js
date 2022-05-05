@@ -52,7 +52,7 @@ const items = [{
     "link": "https://filmfreeway.com/KirillChikalin"
 },
 {
-    "title": "IMDB",
+    "title": "IMDb",
     "subtitle": "Kirill Chikalin | director, animator | 2020",
     "image": imdb,
     "link": "https://www.imdb.com/name/nm11577759"
