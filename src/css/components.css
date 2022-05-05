@@ -1,8 +1,8 @@
-:root[data-theme='dark'] {
+head[data-theme='dark'] {
   --background-color: rgb(55, 51, 49);
 }
 
-:root[data-theme='light'] {
+head[data-theme='light'] {
   --background-color: rgb(245, 234, 234);
 }
 
@@ -14,6 +14,7 @@ body[data-theme='dark'] {
   --card-hover-bg: #c2fbd7;
   --font-color-p: rgba(245, 234, 234, 0.5);
   --font-color-p-hover: rgba(10, 10, 10, 0.8);
+  --a-color-hover: rgb(127, 205, 145);
 }
 
 body[data-theme='light'] {
@@ -24,6 +25,7 @@ body[data-theme='light'] {
   --card-hover-bg: #c2fbd7;
   --font-color-p: rgb(77, 70, 70);
   --font-color-p-hover: rgba(10, 10, 10, 0.8);
+  --a-color-hover: rgb(127, 205, 145);
 }
 
 body {
@@ -72,7 +74,7 @@ a {
   color: var(--font-color);
 }
 a:hover {
-  color: var(--card-hover-bg);
+  color: var(--a-color-hover);
 }
 
 .Card {

@@ -9,6 +9,7 @@ import '../css/components.css'
 function Header() {
   const [theme, setTheme] = React.useState(() => document.body.getAttribute('data-theme') ?? 'dark')
   React.useEffect(() => {
+    document.head.setAttribute('data-theme', theme)
     document.body.setAttribute('data-theme', theme)
   }, [theme])
   const handleSwitchTheme = () => {
