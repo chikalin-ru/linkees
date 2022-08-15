@@ -1,19 +1,19 @@
-import website from '../assets/website.png'
-import appstore from '../assets/appstore.jpg'
+import appstore from '../assets/appstore.png'
 import playstore from '../assets/playstore.png'
-import youtube from '../assets/youtube.jpeg'
+import youtube from '../assets/youtube.png'
 import telegram from '../assets/telegram.png'
 import filmfreeway from '../assets/filmfreeway.png'
 import imdb from '../assets/imdb.png'
 import justplay from '../assets/justplay.jpg'
 import ecorche from '../assets/ecorche.webp'
-import comingsoon from '../assets/comingsoon.png'
+import thegreencode from '../assets/thegreencode.png'
+import itchio from '../assets/itchio.png'
 
 const items = [{
-    "title": "Portfolio",
-    "subtitle": "Look at my work!",
-    "image": comingsoon,
-    "link": "https://portfolio.chikalin.ru"
+    "title": "The Green Code",
+    "subtitle": "A game prototype for VR Game Jam 2022",
+    "image": thegreencode,
+    "link": "https://kirillchikalin.itch.io/the-green-code"
 },
 {
     "title": "Ecorche: Portrait Anatomy",
@@ -38,6 +38,12 @@ const items = [{
     "subtitle": "All my Android Apps",
     "image": playstore,
     "link": "https://play.google.com/store/apps/dev?id=9162788309736348460"
+},
+{
+    "title": "itch.io",
+    "subtitle": "All my game prototypes",
+    "image": itchio,
+    "link": "https://kirillchikalin.itch.io/"
 },
 {
     "title": "YouTube",
