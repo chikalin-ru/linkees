@@ -1,5 +1,5 @@
 import appstore from '../assets/appstore.png'
-import playstore from '../assets/playstore.png'
+import playstore from '../assets/googleplay.png'
 import youtube from '../assets/youtube.png'
 import telegram from '../assets/telegram.png'
 import filmfreeway from '../assets/filmfreeway.png'
@@ -40,7 +40,7 @@ const items = [{
     "link": "https://play.google.com/store/apps/dev?id=9162788309736348460"
 },
 {
-    "title": "itch.io",
+    "title": "Games",
     "subtitle": "All my game prototypes",
     "image": itchio,
     "link": "https://kirillchikalin.itch.io/"
